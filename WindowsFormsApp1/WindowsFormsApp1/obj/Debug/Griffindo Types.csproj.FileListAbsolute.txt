@@ -1,0 +1,36 @@
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Griffindo Types.csproj.AssemblyReference.cache
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSettings.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSalary.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewEmployeeFrm.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeFrm.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Griffindo Types.csproj.GenerateResource.cache
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Griffindo Types.csproj.CoreCompileInputs.cache
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Test.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEmployee.resources
+E:\01.Programming\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAttendance.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Griffindo Types.csproj.AssemblyReference.cache
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAttendance.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEmployee.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSettings.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSalary.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Test.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewEmployeeFrm.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeFrm.resources
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Griffindo Types.csproj.GenerateResource.cache
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Griffindo Types.csproj.CoreCompileInputs.cache
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\01_STUDY\01_UNI\01_ Esoft\HND\02_Programming Projects\Payroll System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
